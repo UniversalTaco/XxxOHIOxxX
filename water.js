@@ -11,8 +11,8 @@ let fireE, windE, waterE;
 
 // Loading Assets
 function preload() {
-    logoImg = loadImage('SKIBIDI/logo1.jpg');
-    playerImg = loadImage('SKIBIDI/bossbaby.png');
+    logoImg = loadImage('logo1.jpg');
+    playerImg = loadImage('bossbaby.png');
 }
 
 // Text formatter
